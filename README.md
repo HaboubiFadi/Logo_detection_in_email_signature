@@ -20,7 +20,7 @@ The project involves the following steps:
 
 
   
-    ![Screenshot from 2023-07-08 05-49-34](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/42afd381-914b-49e8-8f5c-0f24292da586)
+  ![Screenshot from 2023-07-08 05-49-34](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/42afd381-914b-49e8-8f5c-0f24292da586)
 
 
 
@@ -35,7 +35,7 @@ The project involves the following steps:
 
 
   
-    ![get_signature](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/f571cb17-394c-4725-bedc-6855cf27be8c)
+  ![get_signature](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/f571cb17-394c-4725-bedc-6855cf27be8c)
 
 
 
@@ -47,6 +47,6 @@ The project involves the following steps:
 
 
   
-    ![logo_det](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/755ae300-d8a1-4c3a-a184-dffb7234f507)
+  ![logo_det](https://github.com/HaboubiFadi/Logo_detection_in_email_signature/assets/138848259/755ae300-d8a1-4c3a-a184-dffb7234f507)
 
   
