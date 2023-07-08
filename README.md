@@ -14,7 +14,7 @@ The project involves the following steps:
 
 
 # A quick presentation with screenshots :
-  the Target email we want to work on: 
+  Email we are working on: 
 
 
 
